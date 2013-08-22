@@ -1,0 +1,9 @@
+{
+    "name": "hot_headings",
+    "license": "MPL 2.0",
+    "author": "Jeff Leverenz <jeff.leverenz@gmail.com>",
+    "version": "0.1",
+    "fullName": "HotHeadings",
+    "id": "jid1-UBWKnC1OxHBEww",
+    "description": "Use hot keys to navigate a page by headings."
+}
