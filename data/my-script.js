@@ -2,7 +2,7 @@ var HH_ = {
     all_headers: $('h1,h2,h3,h4,h5,h6'),
     header_index: 0,
     scrollToElement: function(dest) {
-        $('html, body').animate({ scrollTop: dest.offset().top }, 500);
+        $('html, body').animate({ scrollTop: dest.offset().top }, 250);
     }
 };
 
