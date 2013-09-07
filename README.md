@@ -1,7 +1,8 @@
-Hot Headings lets you scroll to html document headings (h1,h2,etc) via keyboard
-shortcuts.  It was developed for use when html documents are used for
-presentations (vs slide decks).  Instead of clicking through slides, one can
-easily scroll focus to the next heading, moving it to the top of the display.
+Hot Headings is a Firefox Add-On that lets the user scroll to html document
+headings (h1,h2,etc) via keyboard shortcuts.  It was developed for use when
+html documents are used for presentations (vs slide decks).  Instead of
+clicking through slides, one can easily scroll focus to the next heading,
+moving it to the top of the display.
 
 It consists of two primary pieces:
 
